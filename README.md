@@ -1,3 +1,0 @@
-# blog_ism
-
-# testando
